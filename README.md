@@ -27,6 +27,7 @@
 
 - Python 3.7+
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
+- [Socket](https://github.com/miguelgrinberg/python-socketio)
 
 Встановити залежності можна через pip:
 
